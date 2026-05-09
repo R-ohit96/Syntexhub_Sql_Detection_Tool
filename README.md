@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project 1: SQL Injection Scanner
 
 An advanced web vulnerability scanner designed to detect common SQL injection patterns in web applications.
@@ -34,3 +35,6 @@ An advanced web vulnerability scanner designed to detect common SQL injection pa
 
 ## Ethical Warning
 This tool is for educational and authorized security testing purposes only. Scanning websites without permission is illegal. Always test on local environments like DVWA (Damn Vulnerable Web Application).
+=======
+# Syntexhub_Sql_Detection_Tool
+>>>>>>> 7c9dde8d95ab4df0dee9319cb915a5d77ff4c411
